@@ -1,1 +1,48 @@
-/* Escribe acá tus estilos*/
+*{
+	text-align-last:center;
+}
+
+body {
+    background-color: #EEE8AA;
+}
+
+h1 {
+    color: #DAA520;
+}
+
+#formulario{
+	color: #A0522D;
+}
+
+#clientes{
+	color: #A0522D;
+	border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1
+
+}
+
+#select{
+	width: 20%;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    box-shadow: 5px 5px 5px -1px rgba(207,196,140,0.8);
+}
+
+#name, #lastname, #mail, #address, #fono{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    box-shadow: 5px 5px 5px -1px rgba(207,196,140,0.8);
+}
+
+#enviar{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    box-shadow: 5px 5px 5px -1px rgba(207,196,140,0.8);
+}
